@@ -1,3 +1,5 @@
+**To see the notebook with charts please go to** https://nbviewer.org/github/otampel/Testing-hypotheses-on-video-games/blob/main/Games.ipynb
+
 # Testing-hypotheses
 
 The purpose of the study is to identify the patterns that determine the success of the game. This will allow us to bid on a potentially popular product and plan advertising campaigns.
